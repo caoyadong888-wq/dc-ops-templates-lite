@@ -1,0 +1,4 @@
+asset_id,asset_type,site,room,feed,redundancy,module_count,module_kw,rated_kw,measured_kw
+UPS-L1,UPS,EXAMPLE-DC1,Hall-A,A,N+1,4,60,180,100
+UPS-L2,UPS,EXAMPLE-DC1,Hall-A,B,N+1,4,60,180,130
+UPS-L3,UPS,EXAMPLE-DC1,Hall-B,A,N+1,4,60,180,150

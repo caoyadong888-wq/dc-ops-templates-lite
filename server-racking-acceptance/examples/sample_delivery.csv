@@ -1,0 +1,3 @@
+hostname,serial,asn_serial,seal_intact,packaging,shock_indicator
+srv-lite-01,SN-LITE-01,SN-LITE-01,yes,intact,ok
+srv-lite-02,SN-LITE-02,SN-LITE-02,yes,intact,tripped
