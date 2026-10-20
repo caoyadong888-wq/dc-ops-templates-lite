@@ -35,3 +35,8 @@ python3 deliverables/ups_capacity_lite.py --input examples/sample_capacity.csv
 完整版还有 2N、带公式和颜色的工作簿、中文清单，以及全部 18 项巡检。
 
 Full version: GUMROAD_URL
+
+## Delivery time / 交付时间
+
+- Lite (this repo): free, available now. / 精简版（本仓库）：免费，立即可用。
+- Full version: instant download after purchase (GUMROAD_URL). / 完整版：购买后即时下载（GUMROAD_URL）。
